@@ -39,3 +39,76 @@ Follow procedure:
 6. Request a pull request from that branch in GitHub
 
 7. For your prelim exam to be counted, please paste your repository link as an answer in this exam.
+
+OUTPUT: https://github.com/mcarangan-tip/sysad2-12021/tree/prelim-exam
+
+```
+.
+├── README.md
+├── ansible.cfg
+├── config.yml
+├── preliminv
+├── roles
+│   ├── java
+│   │   ├── README.md
+│   │   ├── defaults
+│   │   │   └── main.yml
+│   │   ├── handlers
+│   │   │   └── main.yml
+│   │   ├── meta
+│   │   │   └── main.yml
+│   │   ├── tasks
+│   │   │   └── main.yml
+│   │   ├── tests
+│   │   │   ├── inventory
+│   │   │   └── test.yml
+│   │   └── vars
+│   │       └── main.yml
+│   ├── motd
+│   │   ├── README.md
+│   │   ├── defaults
+│   │   │   └── main.yml
+│   │   ├── handlers
+│   │   │   └── main.yml
+│   │   ├── meta
+│   │   │   └── main.yml
+│   │   ├── tasks
+│   │   │   └── main.yml
+│   │   ├── tests
+│   │   │   ├── inventory
+│   │   │   └── test.yml
+│   │   └── vars
+│   │       └── main.yml
+│   ├── python
+│   │   ├── README.md
+│   │   ├── defaults
+│   │   │   └── main.yml
+│   │   ├── handlers
+│   │   │   └── main.yml
+│   │   ├── meta
+│   │   │   └── main.yml
+│   │   ├── tasks
+│   │   │   └── main.yml
+│   │   ├── tests
+│   │   │   ├── inventory
+│   │   │   └── test.yml
+│   │   └── vars
+│   │       └── main.yml
+│   └── user
+│       ├── README.md
+│       ├── defaults
+│       │   └── main.yml
+│       ├── handlers
+│       │   └── main.yml
+│       ├── meta
+│       │   └── main.yml
+│       ├── tasks
+│       │   └── main.yml
+│       ├── tests
+│       │   ├── inventory
+│       │   └── test.yml
+│       └── vars
+│           └── main.yml
+└── var1
+    └── var2
+```
