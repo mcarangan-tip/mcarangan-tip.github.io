@@ -28,6 +28,8 @@ image: /assets/midterm/Mexam.png
 7. For your midterm exam to be counted, please paste your repository link as an answer in this exam.
 
 OUTPUT: https://github.com/mcarangan-tip/sysad2-12021/tree/midterm-exam
+
+```
 .  
 ├── README.md  
 ├── \  
@@ -168,3 +170,4 @@ OUTPUT: https://github.com/mcarangan-tip/sysad2-12021/tree/midterm-exam
         │   └── test.yml  
         └── vars  
             └── main.yml  
+```
